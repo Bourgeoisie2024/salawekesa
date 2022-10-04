@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-I'm Passionate about Software Engineering<br><br>- 🔭 I’m currently working on Projects in Laravel<br><br>- 🌱 I’m currently learning React<br><br>- 💬 Ask me about - Full stack developer<br><br>- 📫 How to reach me - wekesa9235@gmail.com<br><br>- ⚡ Fun fact  - I am a student of the ALX Software Engineering Programme
+<br><br>- 🔭 I’m currently working on Projects in Laravel<br><br>- 🌱 I’m currently learning React<br><br>- 💬 Ask me about - Full stack developer<br><br>- 📫 How to reach me - wekesa9235@gmail.com<br><br>- ⚡ Fun fact  - I am a student of the ALX Software Engineering Programme
 
 
 ## 🌐 Socials:
@@ -17,6 +17,12 @@ I'm Passionate about Software Engineering<br><br>- 🔭 I’m currently working 
 ![](https://github-readme-stats.vercel.app/api?username=salawekesa&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=salawekesa&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=salawekesa&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+ ## Stats.
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salawekesa&layout=compact&theme=dark&hide_border=false" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=salawekesa&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Salathiel wekesa's github stats" /></p>
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
