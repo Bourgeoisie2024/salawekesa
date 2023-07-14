@@ -11,6 +11,7 @@
 
 # 💫 About Me:
 -🔭 I’m currently working on Projects in Python<br><br>- 🌱 I’m currently learning React<br><br>- 💬 Ask me about - Full stack developer<br><br>- 📫 How to reach me - wekesa9235@gmail.com<br><br>- ⚡ Fun fact  - I am a student of the ALX Software Engineering Programme
+I am a student at Power Learn Project
 
 </br>
 
